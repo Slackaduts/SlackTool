@@ -24,3 +24,4 @@ What hotkeys exist:
   -Noclip up
   -Noclip forward
   -Noclip down
+  -Auto dialogue
