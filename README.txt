@@ -14,7 +14,6 @@ This tool gets updated when I have free time from college, and my personal proje
 
 What hotkeys exist:
   -X Press to all clients
-  -Spacebar press to all clients
   -Sync XYZ of all clients (syncs with selected client)
   -Navmap quest TP (selected client)
   -Navmap quest TP for all clients. Which client the teleport obeys varies depending on the scenario.
